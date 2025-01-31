@@ -18,6 +18,6 @@ Response format
 {
   "email": "diddy@nodiddy.babyoil.com",
   "date": "2025-01-31T20:42:37.074Z",
-  "github":"https://github.com/shemigam1/hng_be_stage0"
+  "github_url":"https://github.com/shemigam1/hng_be_stage0"
 }
 ```

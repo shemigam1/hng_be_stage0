@@ -12,8 +12,8 @@ app.get("/", (req, res) => {
     const now = new Date().toISOString()
     res.status(200).json({
         email: "semiloreomotade@gmail.com",
-        date: now,
-        github: "https://github.com/shemigam1/hng_be_stage0"
+        current_datetime: now,
+        github_url: "https://github.com/shemigam1/hng_be_stage0"
     })
 })
 app.use("**", (req, res) => {
